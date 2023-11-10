@@ -16,11 +16,12 @@
 * `pip install bs4`
 * `git clone https://github.com/Th3HaXor/X-DOM`
 * `cd X-DOM`
+* `pip install -r requirements.txt`
 * `python X-DOM.py`
 
 ### Or ; Use Single Command
 ```
-apt update && apt install git python2 -y && git clone https://github.com/Th3HaXor/X-DOM && cd X-DOM && python X-DOM.py
+apt update && apt install git python2 -y && && pip install --upgrade pip && pip install bs4 && git clone https://github.com/Th3HaXor/X-DOM && cd X-DOM && pip install -r requirements.txt && python X-DOM.py
 ```
 
 ## [+] Find Me on :
