@@ -6,7 +6,7 @@
 
 ## ScreenShot
 
-<img src='https://raw.githubusercontent.com/Th3HaXor/X-DOM/main/20231110_092340.jpg'>
+<img src='https://raw.githubusercontent.com/Th3HaXor/X-DOM/main/20231116_215011.jpg'>
 
 ## Installation :
 * `apt update`
